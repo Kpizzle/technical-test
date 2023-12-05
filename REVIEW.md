@@ -24,7 +24,12 @@ improvements to consider -
 - in the output maybe we should include a total word count? 
 - In the output should we add total vowels and consonants?
 
-Test Cases - 
+Other Notes - 
+
+I'm afraid I don't really have experience writing unit tests or i'm unsure how to write command line automated tests. 
+But I've provided the tests cases I would use for testing this. 
+
+Test Cases - More Test cases can be added depending on the outcome of questions sent to the product owner
 
 Feature: Vowel and Consonant Counter
 
