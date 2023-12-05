@@ -1,7 +1,4 @@
 # Interview Exercise for Agile QA role
-
-Please note while taking this test, do not mention 90 Percent of Everything or 90poe anywhere on the code or repository name.
-
 Clone this repo in your private git space. Once done, please add github username: shilpa-sethi as a collaborator/ reviewer.
 While submitting please ensure to add a README explaining how to run the test and all related info.
 
